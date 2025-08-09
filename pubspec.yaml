@@ -1,11 +1,3 @@
-name: reactive_forms_generator_monorepo
-
-workspace:
-  - packages/generator_tests
-  - packages/reactive_forms_annotations
-  - packages/reactive_forms_generator
-  - packages/reactive_forms_generator/example
-
 environment:
   sdk: ">=3.6.0 <4.0.0"
 
