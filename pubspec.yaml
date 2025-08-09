@@ -1,4 +1,4 @@
-name: reactive_forms_generator_monorepo
+name: reactive_forms_generator
 
 workspace:
   - packages/generator_tests
